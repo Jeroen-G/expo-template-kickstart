@@ -4,6 +4,8 @@
 npx create-expo-app --template expo-template-kickstart
 ```
 
+After installation, run `yarn start` and you're ready to go!
+
 Batteries included:
 - Typescript
 - Expo Router
@@ -11,3 +13,4 @@ Batteries included:
 - Jest
 - PlopJS
 - Eslint & Prettier
+- Husky & Lint-staged
