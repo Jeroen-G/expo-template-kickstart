@@ -1,7 +1,13 @@
 # Kickstart template for Expo
 
+A template for Expo apps.
+
 ```shell
-npx create-expo-app --template expo-template-kickstart
+npm create-expo-app --template expo-template-kickstart
+```
+Or
+```shell
+yarn create expo-app --template expo-template-kickstart
 ```
 
 After installation, run `yarn start` and you're ready to go!
