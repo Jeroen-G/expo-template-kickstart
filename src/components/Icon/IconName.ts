@@ -1,2 +1,1 @@
-export enum IconName {
-}
+export enum IconName {}
