@@ -1,7 +1,7 @@
 import { createIconSetFromIcoMoon } from '@expo/vector-icons';
 import React from 'react';
 
-import icoMoonConfig from '../../../assets/icons/selection.json';
+import icoMoonConfig from 'assets/icons/selection.json';
 
 import {IconName} from "./IconName";
 

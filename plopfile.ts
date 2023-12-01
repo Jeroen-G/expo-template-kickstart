@@ -76,7 +76,7 @@ export default (plop: NodePlopAPI): void => {
     actions: [
       {
         type: "add",
-        path: "src/screens/{{lowerCase name}}/index.tsx",
+        path: "src/app/{{lowerCase name}}/index.tsx",
         templateFile: "dev/templates/screen/index.tsx.hbs",
       },
     ],
